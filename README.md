@@ -14,3 +14,6 @@
 
 > ### Projects/ls_2.py
 <p> Bu faylda mən pəncərənin açıldığı kordinatları və pəncərənin ölçüsünü təyin etdim </p>
+
+> ### py Projects/ls_3.py
+<p>Bu faylda app daxilinə şəkil əlavə etdim.</p>
