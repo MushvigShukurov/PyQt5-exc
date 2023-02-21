@@ -18,4 +18,4 @@
 > ### py Projects/ls_3.py
 <p>Bu faylda app daxilinə şəkil əlavə etdim.</p>
 
-![scooby_doo](https://raw.githubusercontent.com/MushvigShukurov/PyQt5-exc/main/Projects/images/scooby-doo.jpg)
+<img src="https://raw.githubusercontent.com/MushvigShukurov/PyQt5-exc/main/Projects/images/scooby-doo.jpg" alt="image" width="200" height="200">
