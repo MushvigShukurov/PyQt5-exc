@@ -2,6 +2,8 @@
 ### PyQt5-exc
 ### PyQt5 - kitabxanası (Çalışmalarım)
 
-<hr>
+--- 
+___
+
 ### Kitabxananı yüklədim 
 <p>pip install PyQt5</p>
