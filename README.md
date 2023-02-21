@@ -5,11 +5,9 @@
 ---
 
 ### Kitabxananı yüklədim 
-<p>
-```
+<pre>
 pip install PyQt5
-```
-</p>
+</pre>
 
 --- 
 ### Projects/ls_1.py
