@@ -25,3 +25,6 @@
 
 > ### Projects/ls_5.py
 <p>App-daxilinə yazı əlavə etdim və stilləndirdim.</p>
+
+> ### Projects/ls_6.py
+<p>App-daxilinə buton əlavə etdim və stilləndirdim</p>
