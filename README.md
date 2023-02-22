@@ -22,3 +22,6 @@
 
 > ### Projects/ls_4.py
 <p>Şəklin ölçüsünü dəyişmək üçün kodlar yazdım.</p>
+
+> ### Projects/ls_5.py
+<p>App-daxilinə yazı əlavə etdim və stilləndirdim.</p>
