@@ -28,3 +28,6 @@
 
 > ### Projects/ls_6.py
 <p>App-daxilinə buton əlavə etdim və stilləndirdim</p>
+
+> ### Projects/ls_8.py
+<p>Input və butonları üfüqi layout-a əlavə etdim. Həmin layot-u isə şaquli layout-a.</p>
